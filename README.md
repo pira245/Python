@@ -1,2 +1,2 @@
-# Python
+# Python with Anaconda
 Python repository
